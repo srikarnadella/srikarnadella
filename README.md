@@ -5,7 +5,12 @@
 * Investment Banking Web Scraper: After completing the JPMC Forage IB Simulation I wanted to try making a web scraper that compiles much of the analysis done to make the process more efficient
 * File Organizer: Automated file organization system written in python to keep my downloads folder clena
 * AI DJ: Since I love house music I wanted to use GAN Model to try making a model that takes various samples and beats and makes house music <br><br>
-🌱 I’m currently learning machine learning, investment banking methodologies, credit scores, and LLMs<br>💬 Ask me about my projects, hobbies, and goals!<br>⚡ Fun fact: I used to race in simulator racing tournaments!
+
+
+🌱 I’m currently learning machine learning, investment banking methodologies, credit scores, and LLMs<br>
+💬 Ask me about my projects, hobbies, and goals!<br>
+🏓 Hobbies: Basketball, football, golf, pickleball, racing, running, playing video games, and watching tv shows!
+⚡ Fun fact: I used to race in simulator racing tournaments!
 
 
 ## 🌐 Socials:
