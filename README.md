@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 What I am currently working on/planning to work on:
 * Weather app: React Native App that uses the National Weather Service API to pull weather data for the users given zip code
+* NBA MVP Predictor: A machine learning model that takes a players stats whether a pre-season predictor or a post-season predictor and attempts to determine whether they will be the MVP
 * Credit Score Predictor: Model trained to predict credit scores and provide analysis on the shifters in a credit score
 * Investment Banking Web Scraper: After completing the JPMC Forage IB Simulation I wanted to try making a web scraper that compiles much of the analysis done to make the process more efficient
 * File Organizer: Automated file organization system written in python to keep my downloads folder clena
