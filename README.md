@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning machine learning, investment banking methodologies, credit scores, and LLMs<br>
 💬 Ask me about my projects, hobbies, and goals!<br>
-🏓 Hobbies: Basketball, football, golf, pickleball, racing, running, playing video games, and watching tv shows!
+🏓 Hobbies: Basketball, football, golf, pickleball, racing, running, playing video games, and watching tv shows! <br>
 ⚡ Fun fact: I used to race in simulator racing tournaments!
 
 
