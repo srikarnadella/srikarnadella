@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-I am a second year at the University of Virginia where I major in Computer Science in the school of engineering and minor in data science and general business. I love to code in my free time and am always looking to sharpen my skills. Reach out if you want to get in contact!
+I am a third year at the University of Virginia where I major in Computer Science in the school of engineering and minor in data science and general business. I love to code in my free time and am always looking to sharpen my skills. Reach out if you want to get in contact!
 
 🔭 What I am currently working on/planning to work on:
 * Weather app: React Native App that uses the National Weather Service API to pull weather data for the users given zip code
