@@ -6,11 +6,9 @@
 I am a third year at the University of Virginia where I major in Computer Science in the school of engineering and minor in data science and general business. I love to code in my free time and am always looking to sharpen my skills. Reach out if you want to get in contact!
 
 🔭 What I am currently working on/planning to work on:
-* Weather app: React Native App that uses the National Weather Service API to pull weather data for the users given zip code
-* Credit Score Predictor: Model trained to predict credit scores and provide analysis on the shifters in a credit score
-* Investment Banking Web Scraper: After completing the JPMC Forage IB Simulation I wanted to try making a web scraper that compiles much of the analysis done to make the process more efficient
-* File Organizer: Automated file organization system written in python to keep my downloads folder clena
-* AI DJ: Since I love house music I wanted to use GAN Model to try making a model that takes various samples and beats and makes house music <br><br>
+* Trading bot based on twitter sentiment
+* DJ Sidecar which aims to aid a DJ as they are performing/mixing
+* CaddyAI: an app that helps users how to play certain holes
 
 
 🌱 I’m currently learning machine learning, investment banking methodologies, financial ratings, LLMs, and how to fix my short game in golf<br>
